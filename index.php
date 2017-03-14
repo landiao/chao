@@ -10,6 +10,7 @@ echo '蓝调';
  */
 var_dump('nothing to show');
 echo 'asdfasdfasdfasdf';
+echo '111111111';
 var_dump('asdfasdfasdfasdfasdfasf');
 
 ?>
